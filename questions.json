@@ -1,0 +1,250 @@
+{
+  "heading": "Antonyms",
+  "topics": [
+    {
+      "heading": "Antonyms",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word is the opposite of 'brave'?",
+          "options": [
+            { "text": "Courageous" },
+            { "text": "Scared" },
+            { "text": "Bold" },
+            { "text": "Fearless" }
+          ],
+          "answer": 1,
+          "explanation": "'Scared' is the antonym of 'brave'. When you're brave, you face challenges without fear, but when you're scared, you feel afraid or frightened."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the antonym for 'shiny':",
+          "options": [
+            { "text": "Sparkly" },
+            { "text": "Gleaming" },
+            { "text": "Dull" },
+            { "text": "Bright" }
+          ],
+          "answer": 2,
+          "explanation": "'Dull' is the opposite of 'shiny'. Shiny things reflect light and look bright, while dull things don't reflect much light and look plain or boring."
+        },
+        {
+          "questionNo": 3,
+          "question": "What is the opposite of 'polite'?",
+          "options": [
+            { "text": "Kind" },
+            { "text": "Friendly" },
+            { "text": "Rude" },
+            { "text": "Nice" }
+          ],
+          "answer": 2,
+          "explanation": "'Rude' is the antonym of 'polite'. Polite people show good manners and respect, while rude people are impolite and disrespectful."
+        },
+        {
+          "questionNo": 4,
+          "question": "Select the word that means the opposite of 'quiet':",
+          "options": [
+            { "text": "Silent" },
+            { "text": "Peaceful" },
+            { "text": "Calm" },
+            { "text": "Noisy" }
+          ],
+          "answer": 3,
+          "explanation": "'Noisy' is the antonym of 'quiet'. A quiet place has very little sound, while a noisy place has lots of loud sounds."
+        },
+        {
+          "questionNo": 5,
+          "question": "What's the opposite of 'often'?",
+          "options": [
+            { "text": "Rarely" },
+            { "text": "Sometimes" },
+            { "text": "Always" },
+            { "text": "Frequently" }
+          ],
+          "answer": 0,
+          "explanation": "'Rarely' is the antonym of 'often'. Often means something happens many times, while rarely means it doesn't happen very much."
+        },
+        {
+          "questionNo": 6,
+          "question": "Choose the word that means the opposite of 'trouble':",
+          "options": [
+            { "text": "Problem" },
+            { "text": "Difficulty" },
+            { "text": "Peace" },
+            { "text": "Issue" }
+          ],
+          "answer": 2,
+          "explanation": "'Peace' is the antonym of 'trouble'. Trouble means problems or difficulties, while peace means calmness and no problems."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word is the opposite of 'question'?",
+          "options": [
+            { "text": "Ask" },
+            { "text": "Answer" },
+            { "text": "Inquiry" },
+            { "text": "Query" }
+          ],
+          "answer": 1,
+          "explanation": "'Answer' is the antonym of 'question'. A question is something you ask to get information, while an answer is the information you get."
+        },
+        {
+          "questionNo": 8,
+          "question": "Select the antonym for 'famous':",
+          "options": [
+            { "text": "Popular" },
+            { "text": "Well-known" },
+            { "text": "Unknown" },
+            { "text": "Celebrated" }
+          ],
+          "answer": 2,
+          "explanation": "'Unknown' is the opposite of 'famous'. Many people know famous people, while unknown people aren't recognized by many."
+        },
+        {
+          "questionNo": 9,
+          "question": "What's the opposite of 'strict'?",
+          "options": [
+            { "text": "Fast" },
+            { "text": "Rigid" },
+            { "text": "Tough" },
+            { "text": "Relaxed" }
+          ],
+          "answer": 3,
+          "explanation": "'Relaxed' is the antonym of 'strict'. Strict rules or people are very firm and exact, while relaxed ones are easy-going and flexible."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the sentence where the underlined words are antonyms:",
+          "options": [
+            { "text": "The big dog chased the small cat." },
+            { "text": "She wore a red hat and blue shoes." },
+            { "text": "The hot sun made the cold ice cream melt." },
+            { "text": "They played loud music at the quiet party." }
+          ],
+          "answer": 0,
+          "explanation": "'Big' and 'small' are antonyms. Big means large in size, while small means little in size."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which pair of words are not antonyms?",
+          "options": [
+            { "text": "Happy - Sad" },
+            { "text": "Fast - Slow" },
+            { "text": "Tall - Short" },
+            { "text": "Up - High" }
+          ],
+          "answer": 3,
+          "explanation": "'Up' and 'High' are not antonyms. Both mean something which is on top of height. Other options are antonyms of each other."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank with the correct antonym of the highlighted word: 'Instead of waking up early, he decided to sleep ___.'",
+          "options": [
+            { "text": "Soon" },
+            { "text": "Late" },
+            { "text": "Quick" },
+            { "text": "Fast" }
+          ],
+          "answer": 1,
+          "explanation": "'Late' is the antonym of 'early'. Early means before the usual time, while late means after the usual time."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word doesn't belong in this group of antonyms?",
+          "options": [
+            { "text": "Wet" },
+            { "text": "Moist" },
+            { "text": "Damp" },
+            { "text": "Dry" }
+          ],
+          "answer": 3,
+          "explanation": "'Dry' is the odd one out because it's the antonym of the other words. Wet, moist, and damp all mean containing water, while dry means having no water."
+        },
+        {
+          "questionNo": 14,
+          "question": "Select the best antonym for 'boring':",
+          "options": [
+            { "text": "Dull" },
+            { "text": "Tedious" },
+            { "text": "Exciting" },
+            { "text": "Uninteresting" }
+          ],
+          "answer": 2,
+          "explanation": "'Exciting' is the best antonym for 'boring'. Boring things are not interesting and make you feel bored, while exciting things are interesting and make you feel enthusiastic."
+        },
+        {
+          "questionNo": 15,
+          "question": "What's the opposite of 'finish'?",
+          "options": [
+            { "text": "End" },
+            { "text": "Complete" },
+            { "text": "Conclude" },
+            { "text": "Start" }
+          ],
+          "answer": 3,
+          "explanation": "'Start' is the antonym of 'finish'. To finish means to end or complete something, while to start means to begin or commence something."
+        },
+        {
+          "questionNo": 16,
+          "question": "Match the antonym pair: 'The teacher spoke loudly, but the students whispered ____.'",
+          "options": [
+            { "text": "Noisily" },
+            { "text": "Quietly" },
+            { "text": "Clearly" },
+            { "text": "Strongly" }
+          ],
+          "answer": 1,
+          "explanation": "'Quietly' is the antonym of 'loudly'. Loudly means making a lot of noise, while quietly means making very little noise."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct antonym sentence: 'The schoolbag is heavy.'",
+          "options": [
+            { "text": "The schoolbag is light." },
+            { "text": "The schoolbag is dark." },
+            { "text": "The schoolbag is ugly." },
+            { "text": "The schoolbag is rude." }
+          ],
+          "answer": 0,
+          "explanation": "The opposite of 'heavy' is 'light.' In this context, 'light' is related to the weight of the schoolbag."
+        },
+        {
+          "questionNo": 18,
+          "question": "Match the antonym pair: 'The giant was very tall, while the dwarf was very ____.'",
+          "options": [
+            { "text": "Big" },
+            { "text": "Large" },
+            { "text": "Short" },
+            { "text": "High" }
+          ],
+          "answer": 2,
+          "explanation": "'Short' is the antonym of 'tall'. Tall describes great height, while short describes little height."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the word that means the opposite of 'often':",
+          "options": [
+            { "text": "Always" },
+            { "text": "Usually" },
+            { "text": "Frequently" },
+            { "text": "Rarely" }
+          ],
+          "answer": 3,
+          "explanation": "'Rarely' is the antonym of 'often'. 'Often' means frequently or many times, while 'rarely' means seldom or not often."
+        },
+        {
+          "questionNo": 20,
+          "question": "What's the antonym of 'trouble'?",
+          "options": [
+            { "text": "Problem" },
+            { "text": "Difficulty" },
+            { "text": "Peace" },
+            { "text": "Quick" }
+          ],
+          "answer": 2,
+          "explanation": "'Peace' is the opposite of 'trouble'. Trouble implies problems or difficulties, while peace suggests calmness and lack of conflict."
+        }
+      ]
+    }
+  ]
+}
